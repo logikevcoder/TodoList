@@ -1,5 +1,8 @@
 # To-Do list
 
+### Try it out!
+https://logikevcoder.github.io/TodoList/
+
 ## About
 - Uses html, CSS and jQuery
 - Can hover over an item to show a trash icon to delete the item
